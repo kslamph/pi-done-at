@@ -6,6 +6,8 @@ Shows the local completion time after a Pi agent run settles:
 ※ Done at 08:23:30
 ```
 
+![pi-done-at notification in the Pi TUI](docs/screenshot.png)
+
 ## What's included
 
 | Extension | Command / shortcut | What it does |

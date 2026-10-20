@@ -1,6 +1,6 @@
 {
   "name": "pi-done-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show the local completion time after a Pi agent run",
   "author": "kslamph",
   "type": "module",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/kslamph/pi-done-at.git"
   },
   "homepage": "https://github.com/kslamph/pi-done-at#readme",
-  "files": ["timestamp.js", "README.md", "LICENSE"],
+  "files": ["timestamp.js", "README.md", "LICENSE", "docs/screenshot.png"],
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*"
   },
