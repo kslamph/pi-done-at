@@ -1,0 +1,16 @@
+{
+  "name": "pi-timestamp",
+  "version": "1.0.0",
+  "description": "Show a local timestamp when Pi finishes an agent run",
+  "type": "module",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./timestamp.js"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
